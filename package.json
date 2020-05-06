@@ -1,0 +1,19 @@
+{
+  "name": "wrangler-worker",
+  "version": "1.0.0",
+  "description": "Testing the working of Workers deployment from CloudFlare",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barath99/Wrangler-Worker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barath99/Wrangler-Worker/issues"
+  },
+  "homepage": "https://github.com/barath99/Wrangler-Worker#readme"
+}
